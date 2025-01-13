@@ -1,0 +1,11 @@
+{
+  "name": "summum-privacy-policy",
+  "version": "1.0.0",
+  "description": "Static web site for Summum App privacy Policy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago B",
+  "license": "MIT"
+}
